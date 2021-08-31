@@ -1,0 +1,39 @@
+.about{
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.about-content{
+
+   margin: auto;
+   max-width: 850px;
+  
+  
+}
+.about-content h1{
+    font-size: 76px;
+    font-weight: 700;
+    color: blue;
+    padding: 30px 0px
+}
+.about-content h3{
+    font-size: 30px;
+}
+.about-content p{
+    font-size: 1.2rem;
+    color: hsl(214, 14%, 50%);
+    width: 100%;
+    vertical-align: baseline;
+}
+.cgpa-z{
+    padding: 10px 24px;
+    background-color: rgb(67, 67, 218);
+    color: white;
+    border-radius: 26px;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: 1px solid rgb(67, 67, 218);
+    margin-left: 35%;
+}
+
